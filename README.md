@@ -1,4 +1,4 @@
 # leetcode
-|Author|果冻虾仁|
-|---|---
+|ID|Title|Solution|Difficulty
+|---|---|---|---
 |E-mail|Jelly.K.Wang@qq.com
