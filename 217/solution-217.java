@@ -1,3 +1,9 @@
+/**
+ss
+ss
+ss
+
+**/
 public boolean containsDuplicate(int[] nums) {
         if(nums.length < 2)
             return false;
