@@ -8,8 +8,8 @@ public boolean containsDuplicate(int[] nums) {
             set.add(nums[i]);
         }
         return false;
-    }
-    public boolean containsDuplicate1(int[] nums){
+}
+public boolean containsDuplicate1(int[] nums){
         if(nums.length < 2)
             return false;
         Arrays.sort(nums);
