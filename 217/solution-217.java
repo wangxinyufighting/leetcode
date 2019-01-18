@@ -9,6 +9,7 @@
         遍历数组，若nums[i]和nums[i+1]相等，则返回true。
         否则最后返回false。
 **/
+
 public boolean containsDuplicate1(int[] nums) {
         if(nums.length < 2)
             return false;
