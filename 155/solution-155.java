@@ -32,7 +32,6 @@ class MinStack {
     
     public void pop() {
         stackData.pop();
-        // if(temp == stackMin.peek())
         stackMin.pop();
     }
     
