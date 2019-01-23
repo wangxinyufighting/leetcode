@@ -15,6 +15,8 @@
    
    qmax的弹出规则：
     qmax的队头 == i - w时，弹出队头。此时即队头所经过的遍历次数已经超过k次。
+   
+   执行用时: 23 ms, 在Sliding Window Maximum的Java提交中击败了64.50% 的用户
 */
 public int[] getMaxValueInWindow1(int[] nums, int k){
         if(nums.length < k || k < 1 || nums.length < 1)
